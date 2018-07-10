@@ -176,10 +176,6 @@ public class CustomerDAOImpl implements CustomerDAO {
 	}
 
 	
-	
-	//-----------------------RESTORANLAR------------------------
-
-	
 	//-----------------------HESAP HAREKETLERÝ------------------
 	
 	@Override
@@ -234,14 +230,3 @@ public class CustomerDAOImpl implements CustomerDAO {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-
-

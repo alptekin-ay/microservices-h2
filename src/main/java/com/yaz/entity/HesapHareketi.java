@@ -1,5 +1,6 @@
 package com.yaz.entity;
 
+
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;

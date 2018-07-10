@@ -35,9 +35,6 @@ public interface CustomerDAO {
 	public Kampanya getKampanya(int kampanyaId);
 
 	public void deleteKampanya(int kampanyaId);
-
-	//-----------------------RESTORANLAR------------------------
-
 	
 	//-----------------------HESAP HAREKETLERÝ------------------
 	
