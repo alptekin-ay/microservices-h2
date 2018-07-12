@@ -2,8 +2,7 @@ package com.yaz;
 
 
 import org.springframework.data.repository.CrudRepository;
-
-import com.yaz.Customer;
+import org.springframework.stereotype.Component;
 
 public interface CustomerDAO extends CrudRepository<Customer, Integer>{
 	
